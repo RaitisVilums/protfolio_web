@@ -29,9 +29,9 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p>Apraksitsu sevi kka nezinu kaaa, Sigita privet, PRIIIVEEET :D</p>
-          <p>Oceni ko es uztaisiju, es centos</p>
-          <p>Love u my pupina :3 </p>
+          <p>Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC</p>
+          <p>Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC</p>
+          <p>Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC </p>
         </div>
         <div className="stage-cube-cont">
           <div className="cubespinner">
