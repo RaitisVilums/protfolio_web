@@ -1,0 +1,19 @@
+.logo-container {
+  z-index: 0;
+  width: 400px;
+  height: 609px;
+  position: absolute;
+  top: 10%;
+  right: 25%;
+  bottom: 0;
+  left: auto;
+  margin: auto;
+
+  .solid-logo {
+    width: 460px;
+    height: 460px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+    border-radius: 100px;
+    animation: fadeIn 2s linear;
+  }
+}
