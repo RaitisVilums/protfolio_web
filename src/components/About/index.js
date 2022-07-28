@@ -29,9 +29,9 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <p>Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC</p>
-          <p>Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC</p>
-          <p>Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC Apraksts Raitis BIG MOLODEC </p>
+          <p>Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts </p>
+          <p>Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts</p>
+          <p>Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts Apraksts </p>
         </div>
         <div className="stage-cube-cont">
           <div className="cubespinner">
